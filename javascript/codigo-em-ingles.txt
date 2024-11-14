@@ -1,0 +1,5 @@
+// Código em inglês
+
+// Código sempre em inglês
+// Por causa também da acessibilidade, 
+// pois muitos softwares não conseguem ler dois idiomas diferentes
