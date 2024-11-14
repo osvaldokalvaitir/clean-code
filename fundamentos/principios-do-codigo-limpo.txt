@@ -1,0 +1,11 @@
+Princípios do código limpo
+
+1 - Código Testável: Sem testes dificilmente haverá confiança no código que está sendo escrito.
+
+2 - Revisão: Se não houver uma revisão no código a cada adição de nova feature, a cada nova alteração a chance do código não ser limpo é muito grande.
+
+3 - Refatoração: Aplicar melhorias em código já escrito anteriormente. Código é um organismo vivo, ele recebe remendos ao longo de toda a vida da aplicação, se isso não é constantemente refatorados, em um momento o código deixará de ser um código de fácil manutenção.
+
+4 - Simplicidade: Um dos princípios da Programação chamado KISS Keep it Simple and Stupid: Boas escolhas trazem simplicidade para o código, adicione ferramentas e tecnologias conforme houver realmente necessidade.
+
+5 - Iterações Curtas: Pequenas iterações no código. Tem a ver com uma feature não demorando semanas para ir ao ar para receber a primeira revisão. O ideal é ir enviando para revisão/produção aos poucos.
