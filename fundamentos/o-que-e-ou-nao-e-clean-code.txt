@@ -1,0 +1,32 @@
+O que é ou não é Clean Code?
+
+O que é Clean Code:
+
+Clean Code está pautado em dois pilares:
+
+1 - Legibilidade:
+
+É um código de fácil leitura, não quer dizer que o código é simples, porém, mesmo que complexo, uma pessoa com conhecimento técnico vai conseguir abrir o código e ler.
+
+2 - Manutenção:
+
+Um código de fácil manutenção. Se é possível ler o código, porém, não consegue adicionar uma nova funcionalidade ou dar manutenção em uma funcionalidade existente o código não é considerado limpo.
+
+Para dar manutenção em um código limpo, é necessário ter duas coisas:
+
+3 - Previsibilidade
+
+4 - Confiança
+
+
+O que não é Clean Code:
+
+Clean Code não é um manual: A teoria não define Clean Code. O código limpo nasce a partir de muitos códigos "sujos".
+
+Clean Code não é estrutura de pastas
+
+Clean Code não é um código menor. Um código maior pode ser muito melhor do que um código menor.
+
+Clean Code não tem nada a ver com Arquitetura ou Design de Software. Algumas dessas práticas podem ajudar a manter um código mais legível e manutenível mas não há obrigatoriedade dessas práticas para se obter um código limpo.
+
+Clean Code não tem nada a ver com a performance no código. Seguir as práticas de um código limpo não vai tornar a aplicação mais performática.
