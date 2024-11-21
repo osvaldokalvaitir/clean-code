@@ -1,0 +1,13 @@
+# Customers 
+
+id
+name
+email
+document
+street
+number
+zipcode
+
+As entidades no código não precisam refletir a estrutura do banco de dados
+a maneira como será persistida os dados não deve influenciar na maneira que o 
+código é organizado
