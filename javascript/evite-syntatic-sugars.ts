@@ -1,4 +1,4 @@
-// Evite Syntactic Sugars
+// Evite Syntatic Sugars
 
 const numberInString = '2345';
 
